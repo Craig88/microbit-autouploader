@@ -1,5 +1,5 @@
 # microbit-autouploader
-Automate the process of uploading code to the BBC micro:bit from a Mac. 
+Automate the process of uploading code to the micro:bit on a Mac. 
 
 
 ## Installation
